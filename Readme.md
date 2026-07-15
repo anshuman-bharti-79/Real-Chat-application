@@ -15,7 +15,7 @@ A real-time chat application built using **HTML, CSS, JavaScript, Node.js, and W
 -  Responsive user interface
 -  Clean and modern design
 -  Automatic message updates
-- 🚀 Fast and lightweight
+-  Fast and lightweight
 
 ---
 
@@ -108,8 +108,8 @@ http://localhost:3000
 -  Emoji Support
 -  File Sharing
 -  Image Sharing
-- ⌨️Typing Indicator
-- 🟢Online/Offline Status
+-  Typing Indicator
+-  Online/Offline Status
 -  Dark Mode
 -  Chat History
 -  Notifications
